@@ -59,7 +59,7 @@ Para facilitar o acesso, utilize as seguintes contas:
    git clone https://github.com/kant-sdev/auth-multinivel-semanati
    ```
    ```
-   cd medical-exams
+   cd auth-multinivel-semanati
    ```
 
 2. Instale as dependências:
