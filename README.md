@@ -55,13 +55,15 @@ Para facilitar o acesso, utilize as seguintes contas:
 ## Como Executar
 
 1. Clone o repositório:
-   ```bash
-   git clone <url-do-repositorio>
+   ```
+   git clone https://github.com/kant-sdev/auth-multinivel-semanati
+   ```
+   ```
    cd medical-exams
    ```
 
 2. Instale as dependências:
-   ```bash
+   ```
    npm install
    ```
 
